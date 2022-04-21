@@ -1,2 +1,1 @@
-# a-OS
-Operating System
+# celui operating system
